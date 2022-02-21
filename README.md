@@ -21,7 +21,7 @@ module.exports = {
   plugins: [
     // other gatsby plugins
     // ...
-    require.resolve(`../my-plugin`),
+    'gatsby-source-microsoft-learn-catalog'
   ],
 }
 ```
