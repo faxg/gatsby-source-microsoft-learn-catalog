@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/faxg/swiss-ict-cloud-module-docs/"
+    "url": "https://github.com/faxg/gatsby-source-microsoft-learn-catalog/"
   },
   "bugs": {
-    "url": "https://github.com/faxg/swiss-ict-cloud-module-docs/issues"
+    "url": "https://github.com/faxg/gatsby-source-microsoft-learn-catalog/issues"
   }
 }
