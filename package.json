@@ -5,7 +5,7 @@
   "author": "Florian Georgs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"WARNING: no tests specified\" && exit 0",
     "build": "echo \"No build script setup\""
   },
   "keywords": [
