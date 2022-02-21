@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-source-microsoft-learn-catalog",
+  "version": "0.1.0",
+  "description": "A simple Gatsby source plugin to add Microsoft Learn catalog to your site",
+  "author": "Florian Georgs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build script setup\""
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faxg/swiss-ict-cloud-module-docs/"
+  },
+  "bugs": {
+    "url": "https://github.com/faxg/swiss-ict-cloud-module-docs/issues"
+  }
+}
